@@ -1,0 +1,145 @@
+body{
+    font-family: 'open sans', Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.top-bar{
+    background-color: #333;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    padding: 8px;
+    border-bottom: 5px solid #CD5C5C;
+}
+#cabecalho{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-image: url('./imagens/logo.jpeg');
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+}
+.barra-chocolate{
+    text-align: center;
+    background-color: brown;
+    border: 5px solid black;
+    
+}
+.picture{
+    
+    width: 160px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+}
+.barra{
+    
+    width: 160px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+}
+.description{
+    background-color: #333;
+    color: white;
+    margin: auto;
+    text-align: center;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #CD5C5C;
+    margin-bottom: 10px;
+
+}
+.brigadeiros{
+    background-color: #333;
+    color: white;
+    margin: auto;
+    text-align: center;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #CD5C5C;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.brigadeiro-caixa{
+   
+    height: 230px;
+    width: 160px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+
+}
+.segundo-brigadeiro{
+    
+    width: 160px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+}
+.terceiro-brigadeiro{
+   
+    width: 160px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+
+}
+.quarto-brigadeiro{
+    width: 160px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+   
+
+}
+.quinto-brigadeiro{
+    height: 230px;
+    width: 230px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+
+}
+.sexto-brigadeiro{
+    
+    width: 160px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+}
+.setimo-brigadeiro{
+    height: 230px;
+    width: 230px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    
+}
+.fileira-um{
+    
+    text-align: center;
+    background-color: brown;
+    border-top: 5px solid black;
+}
+.fileira-dois{
+    text-align: center;
+    background-color: brown;
+    margin-bottom: 10px;
+    border-bottom: 5px solid black;
+
+}
+footer{
+    background-color: #333;
+    border-top: 5px solid #CD5C5C;
+
+}
+.social-icon{
+    width: 80px;
+}
+.social-icons{
+    text-align: center;
+}
+
+
